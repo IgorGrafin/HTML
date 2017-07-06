@@ -1,5 +1,4 @@
-body
-{
+body {
     text-align: justify;
     font-family: 'Bellefair', serif;
     font-size: 18px;
@@ -9,30 +8,30 @@ body
     align-content: center;
     border: 1px solid black;
 }
-.example{
-    background-color:aquamarine;
+
+.example {
+    background-color: aquamarine;
     border: 1px dotted black;
     padding: 5px
 }
 
-p{
+p {
     background-color: aquamarine;
 }
 
-h1{
+.h1 {
     font-size: 24px;
 }
-h2{
-    font-size: 20px;
+
+.h2 {
+    font-size:20px;
 }
 
 .lorem {
     background-color: aqua;
 }
 
-.noviy{
-
+.noviy {
     background-color: blanchedalmond;
     margin: auto;
-    
 }
