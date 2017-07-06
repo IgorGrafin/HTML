@@ -1,14 +1,18 @@
 body
 {
-    font-family:cursive;
+    text-align: justify;
+    font-family: 'Bellefair', serif;
+    font-size: 18px;
     margin: auto;
-    width: 900px;
-    word-wrap: break-word;/*перенос по словам, работает в классе с заданной шириной  */
-    padding: 30px 30px 30px 30
+    width: 55%;
+    padding: 30px 30px 30px 30px;
+    align-content: center;
+    border: 1px solid black;
 }
-example{
-    background-color:aqua;
-    
+.example{
+    background-color:aquamarine;
+    border: 1px dotted black;
+    padding: 5px
 }
 
 p{
@@ -20,4 +24,15 @@ h1{
 }
 h2{
     font-size: 20px;
+}
+
+.lorem {
+    background-color: aqua;
+}
+
+.noviy{
+
+    background-color: blanchedalmond;
+    margin: auto;
+    
 }
