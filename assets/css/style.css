@@ -76,6 +76,15 @@ ul.menu li a {
 }
 
 .content {
-    width: 70%;
+    width: 55%;
     margin: auto;
+    padding-top: 10px;
+}
+
+.profile {
+    font-size: 20px;
+    position: absolute;
+    right: 15px;
+    border: 1px solid black;
+    
 }
