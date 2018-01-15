@@ -1,5 +1,5 @@
 # HTML<br>
-HTML/css Learnin<br><br>
+HTML/css Learning<br><br>
 
 Brackets IDE<br><br>
 
